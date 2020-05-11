@@ -50,24 +50,30 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Work</h2>
+          <h2 className="major">Skills</h2>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+            HTML5 | CSS3 | JavaScript | React | Material UI | Bootstrap4 | React
+            Spring | Agile Methodology | Git/Github | Heroku Deployment |
+            Microsoft Office | Figma | Canva | Webflow | Adobe XD | Ruby | Ruby
+            on Rails | PostgreSQL | Express | Node | Miro | HubSpot | Trello
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+            Front End: I am very keen on artfullness, finding hidden patterns,
+            making connections between seemingly unrelated phenomena, and
+            generating solutions.
+          </p>
+          <p>
+            General: Learning takes new realms. A blend of creativity and logic.
+            Intuition, empathy and human connection. Content development,
+            product evolution, sustainable touch. Passion for UX/UI.
+          </p>
+          <p>
+            Back End: The unicorn in me strives to process and find reasoning,
+            relationship between facts, logical thinking call for structure,
+            coming to a conclusion.
           </p>
           {close}
         </article>
@@ -84,13 +90,17 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+            AirAware: An online platform where businesses and individuals can
+            follow and compare the air pollution index in the United States.
+            Technology used: React, API, CSS, JavaScript, Material-UI
+          </p>
+          <p>
+            findPeace: A discrete platform that utilizes Word-of-mouth marketing
+            with a yoga theme via which users can go to get information for
+            shelters and other related organizations in situations of human
+            trafficking or domestic violence. Technology used: Rails,
+            JavaScript, React, React on Rails, Pure CSS, PostgreSQL, Canva,
+            Adobe XD, Mapbox GL, Axios
           </p>
           {close}
         </article>
