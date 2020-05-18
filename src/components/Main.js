@@ -90,17 +90,23 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            AirAware: An online platform where businesses and individuals can
-            follow and compare the air pollution index in the United States.
-            Technology used: React, API, CSS, JavaScript, Material-UI
+            <a href="air-aware.herokuapp.com">AirAware</a>: AirAware: An online
+            platform where businesses and individuals can follow and compare the
+            air pollution index in the United States. Technology used: React,
+            API, CSS, JavaScript, Material-UI
           </p>
           <p>
-            findPeace: A discrete platform that utilizes Word-of-mouth marketing
-            with a yoga theme via which users can go to get information for
-            shelters and other related organizations in situations of human
-            trafficking or domestic violence. Technology used: Rails,
-            JavaScript, React, React on Rails, Pure CSS, PostgreSQL, Canva,
-            Adobe XD, Mapbox GL, Axios
+            <a href="findpeace.herokuapp.com">findPeace</a>: A discrete platform
+            that utilizes Word-of-mouth marketing with a yoga theme via which
+            users can go to get information for shelters and other related
+            organizations in situations of human trafficking or domestic
+            violence. Technology used: Rails, JavaScript, React, React on Rails,
+            Pure CSS, PostgreSQL, Canva, Adobe XD, Mapbox GL, Axios
+          </p>
+          <p>
+            <a href="kpucu.herokuapp.com">Portfolio</a>: My first portfolio
+            website project featuring recent projects. Technology used:
+            JavaScript, React, CSS, Canva, Figma
           </p>
           {close}
         </article>
